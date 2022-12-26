@@ -1,6 +1,6 @@
 # MAP Sensor Graph
 
-This is a GUI based on QCustomPlot to plot the pressure measurements of the intake manifold pressure (MAP) sensor of a diesel engine.
+This is a GUI based on QCustomPlot to plot the pressure measurements of the intake manifold pressure (MAP) sensor of a diesel engine in real time.
 In order to read the data, an OBD-Connector with an ELM327 (based on a PIC18 Microcontroller) has to be used.
 
 ## Helpful Links 
